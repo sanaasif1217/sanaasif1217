@@ -60,6 +60,7 @@ My educational channel teaching Computer Science, programming and AI in Urdu-Eng
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sana_Asif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sana-asif-a53b982b2)
 [![Instagram](https://img.shields.io/badge/Instagram-%40syntaxandstories_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/syntaxandstories_)
 [![GitHub](https://img.shields.io/badge/GitHub-sanaasif1217-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanaasif1217)
 
