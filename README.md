@@ -31,11 +31,6 @@ We didn't just display the comet — we **measured it**: 1.154°/day, within ~1.
 
 🌐 **[Live demo](https://sanaasif1217.github.io/cipher-x-crew/)** · Python · FastAPI · Astropy · React · TypeScript
 
-### 🛰️ [Cipher-X Omega](https://github.com/sanaasif1217/cipher-x-crew-spherex)
-Difference imaging and shift-and-stack detection on real SPHEREx epochs of comet 3I/ATLAS — positions validated against JPL Horizons within 0.33″, plus a NEOSSat 40-frame stack detection (SNR 12.4).
-
-🌐 **[Live demo](https://sanaasif1217.github.io/cipher-x-crew-spherex/)**
-
 ### 🎬 Syntax & Stories
 My educational channel teaching Computer Science, programming and AI in Urdu-English.
 📸 **[@syntaxandstories_](https://instagram.com/syntaxandstories_)**
