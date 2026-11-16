@@ -1,0 +1,23 @@
+<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101B32"/>
+      <stop offset="0.55" stop-color="#16294d"/>
+      <stop offset="1" stop-color="#2676D9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <g fill="#ffffff">
+    <circle cx="90" cy="52" r="2.2" opacity="0.9"/><circle cx="210" cy="120" r="1.5" opacity="0.6"/>
+    <circle cx="340" cy="40" r="1.8" opacity="0.75"/><circle cx="520" cy="88" r="1.3" opacity="0.5"/>
+    <circle cx="700" cy="36" r="2.0" opacity="0.85"/><circle cx="860" cy="110" r="1.4" opacity="0.55"/>
+    <circle cx="1010" cy="48" r="2.3" opacity="0.9"/><circle cx="1120" cy="130" r="1.5" opacity="0.6"/>
+    <circle cx="150" cy="230" r="1.4" opacity="0.5"/><circle cx="980" cy="240" r="1.7" opacity="0.65"/>
+    <circle cx="620" cy="250" r="1.3" opacity="0.5"/><circle cx="420" cy="200" r="1.2" opacity="0.45"/>
+    <circle cx="1080" cy="200" r="1.2" opacity="0.5"/><circle cx="60" cy="160" r="1.6" opacity="0.6"/>
+  </g>
+  <text x="600" y="128" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="64" font-weight="700" fill="#ffffff" letter-spacing="1">Sana Asif</text>
+  <rect x="470" y="152" width="260" height="4" rx="2" fill="#8A70CE"/>
+  <text x="600" y="198" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="25" fill="#cfe3ff">Computer Science Student · Team Leader · Educator</text>
+  <text x="600" y="240" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="19" fill="#9db9e8">NASA Space Apps 2026 🚀 · Stanford Code in Place · Syntax &amp; Stories</text>
+</svg>
